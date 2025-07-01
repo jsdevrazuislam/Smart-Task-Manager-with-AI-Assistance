@@ -34,7 +34,7 @@ A Next.js task management application enhanced with Google Gemini AI for intelli
 
 ## Live Demo
 
-[View Live Demo](https://your-vercel-app.vercel.app)
+[View Live Demo](https://smart-task-manager-with-ai-assistan.vercel.app)
 
 ## Getting Started
 
@@ -66,3 +66,5 @@ A Next.js task management application enhanced with Google Gemini AI for intelli
 1. Get API key from [Google AI Studio](https://aistudio.google.com/app/apikey)
 2. Add to environment variables (never commit to version control)
 
+# Challenges
+No, I didn't face any challenges while completing this assignment.
